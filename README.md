@@ -1,9 +1,10 @@
 # CP2-CSharp
 
-## Aluno
-
-- Victor Didoff
-- RM 552965
+## Alunos
+|Nome|RM|
+|:--:|:--:|
+|Victor Didoff|552965|
+|Matheus Zottis|94119|
 
 ## C#
 
